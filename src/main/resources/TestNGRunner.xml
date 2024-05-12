@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite" parallel= "test" thread-count="2">
+    <test name="Test_Chrome">
+		<parameter name = "browser" value="chrome"/>
+		<parameter name = "url" value ="https://demos.mv.cs-cart.com/aca8352fe2900955/"/>
+         <classes>
+             <class name="TC_HealthCheck"/>
+             
+          </classes>
+     </test> <!-- Test -->
+     
+     <test name="Test_Safari">
+		<parameter name = "browser" value="chrome"/>
+		<parameter name = "url" value ="https://demos.mv.cs-cart.com/aca8352fe2900955/"/>
+         <classes>
+             <class name="TC_HealthCheck"/>
+             
+          </classes>
+     </test> <!-- Test -->
+     
+</suite> <!-- Suite -->
