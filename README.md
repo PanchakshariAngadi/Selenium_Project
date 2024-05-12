@@ -1,4 +1,4 @@
-#automation of an e-commerce web application using jav, Selenium
+#Automation of an e-commerce web application using java, Selenium.
 
 This project involves the automation of an e-commerce web application using Selenium, Maven, TestNG, Page Factory, and Page Object Model patterns. I have covered the fundamentals of testing like Locators, Waits, Selenium Grid, TestNG, etc. It supports the execution across multiple browsers.
 
